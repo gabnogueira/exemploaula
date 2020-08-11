@@ -7,3 +7,5 @@ Maniçoba
 Acarajé
 
 Moqueca
+
+Coxinha
